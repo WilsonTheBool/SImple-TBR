@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: a457a0552b2253e4aad5c1c19f1c6b00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4103149802233915266
+    second: Troll_Idle_Walking_Anim_0
+  - first:
+      213: 5155647766434245968
+    second: Troll_Idle_Walking_Anim_1
+  - first:
+      213: 6914099308492664429
+    second: Troll_Idle_Walking_Anim_2
+  - first:
+      213: -6458981320716160926
+    second: Troll_Idle_Walking_Anim_3
+  - first:
+      213: 8520836536891486200
+    second: Troll_Idle_Walking_Anim_4
+  - first:
+      213: 6451237046497406284
+    second: Troll_Idle_Walking_Anim_5
+  - first:
+      213: 440128869606041912
+    second: Troll_Idle_Walking_Anim_6
+  - first:
+      213: -6029245723636552776
+    second: Troll_Idle_Walking_Anim_7
+  - first:
+      213: -3165235508089701548
+    second: Troll_Idle_Walking_Anim_0
+  - first:
+      213: -5237181231415469986
+    second: Troll_Idle_Walking_Anim_1
+  - first:
+      213: 5526353031956590324
+    second: Troll_Idle_Walking_Anim_2
+  - first:
+      213: 3976542957616770639
+    second: Troll_Idle_Walking_Anim_3
+  - first:
+      213: 950458901651237004
+    second: Troll_Idle_Walking_Anim_4
+  - first:
+      213: 6547143106389505994
+    second: Troll_Idle_Walking_Anim_5
+  - first:
+      213: -4572014185038347926
+    second: Troll_Idle_Walking_Anim_6
+  - first:
+      213: -9154642278024230871
+    second: Troll_Idle_Walking_Anim_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Troll_Idle_Walking_Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3cd55313d214d0800000000000000
+      internalID: -3165235508089701548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll_Idle_Walking_Anim_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e585325fa6bc157b0800000000000000
+      internalID: -5237181231415469986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll_Idle_Walking_Anim_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feec2d7dcc81bc40800000000000000
+      internalID: 5526353031956590324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll_Idle_Walking_Anim_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e24d650c48f2730800000000000000
+      internalID: 3976542957616770639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll_Idle_Walking_Anim_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a786d555b03d00800000000000000
+      internalID: 950458901651237004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll_Idle_Walking_Anim_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77efd87ff1cda50800000000000000
+      internalID: 6547143106389505994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll_Idle_Walking_Anim_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610eb08251fc80c0800000000000000
+      internalID: -4572014185038347926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll_Idle_Walking_Anim_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c79cf95d24f080800000000000000
+      internalID: -9154642278024230871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

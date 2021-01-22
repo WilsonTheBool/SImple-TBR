@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3b7fbb8aa676dc46b27eb7fae13ae41, type: 3}
+  m_Name: 4wayTile_NoColor
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 6787795528796609499, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  m_Color: {r: 0.8560295, g: 0.5330188, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 0
+  m_ColliderType: 0
+  All: {fileID: 3697816343910332685, guid: bc02eae1c50ae2c439064db824db1061, type: 3}
+  None: {fileID: 658620470277467675, guid: bc02eae1c50ae2c439064db824db1061, type: 3}
+  Only_up: {fileID: 6787795528796609499, guid: bc02eae1c50ae2c439064db824db1061, type: 3}
+  Only_down: {fileID: -4134883662303730720, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Only_left: {fileID: 3454309081020593183, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Only_right: {fileID: -4732147625236117165, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Up_Down: {fileID: -8764408497996704548, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Left_Right: {fileID: 369116101920923684, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Not_Up: {fileID: 7822689031994708293, guid: bc02eae1c50ae2c439064db824db1061, type: 3}
+  Not_Down: {fileID: 3687277336363577369, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Not_Left: {fileID: -5355352232673421139, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Not_Right: {fileID: -7866943216670535998, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Angle_Right_Up: {fileID: 4943903240240565474, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Angle_Right_Down: {fileID: 998083095797916964, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Angle_Left_Up: {fileID: -6524535799066215199, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}
+  Angle_Left_Down: {fileID: 8992375232457446602, guid: bc02eae1c50ae2c439064db824db1061,
+    type: 3}

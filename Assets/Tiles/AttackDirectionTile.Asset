@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3b7fbb8aa676dc46b27eb7fae13ae41, type: 3}
+  m_Name: AttackDirectionTile
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 0.5188679, g: 0.01713244, b: 0.47805682, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+  All: {fileID: 0}
+  None: {fileID: 0}
+  Only_up: {fileID: 6259165929374041405, guid: d18e47264449a9c47aab2aeef7e4628e, type: 3}
+  Only_down: {fileID: -1151113205510893720, guid: d18e47264449a9c47aab2aeef7e4628e,
+    type: 3}
+  Only_left: {fileID: -7575914818582597285, guid: d18e47264449a9c47aab2aeef7e4628e,
+    type: 3}
+  Only_right: {fileID: -3192039051890466166, guid: d18e47264449a9c47aab2aeef7e4628e,
+    type: 3}
+  Up_Down: {fileID: 0}
+  Left_Right: {fileID: 0}
+  Not_Up: {fileID: 0}
+  Not_Down: {fileID: 0}
+  Not_Left: {fileID: 0}
+  Not_Right: {fileID: 0}
+  Angle_Right_Up: {fileID: 0}
+  Angle_Right_Down: {fileID: 0}
+  Angle_Left_Up: {fileID: 0}
+  Angle_Left_Down: {fileID: 0}

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2886255719385862506
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2886255719385862505}
+  - component: {fileID: 2886255719385862502}
+  - component: {fileID: 2886255719385862503}
+  - component: {fileID: 2886255719385862504}
+  m_Layer: 0
+  m_Name: Shield Block Skill
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2886255719385862505
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2886255719385862506}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 551.88025, y: 187.96365, z: -736.504}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2886255719385862502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2886255719385862506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 656cf29cd0f9b3340be4e007b5bc625c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  owner: {fileID: 0}
+  SkillName: Shield Block
+  SkillDiscriprion: "Shield self to negate damage \nfrom the next attack"
+  skillIcon: {fileID: 8178136099780111899, guid: 6d1d462f9ca6fbd47bb21641af167a86,
+    type: 3}
+  controller: {fileID: 2886255719385862503}
+  cooldown: 0
+  maxCooldown: 3
+  InfoWindowText: "Shield SELF to negate damage \nfrom the next attack"
+--- !u!114 &2886255719385862503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2886255719385862506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3592e4160a1b4f4ebe478ff222a5b09, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NoTargetSkillInput: {fileID: 2886255719385862504}
+--- !u!114 &2886255719385862504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2886255719385862506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58c67645dd9ad784d97caa1abe6205ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mousePosition: {x: 0, y: 0, z: 0}
+  tileMousePosition: {x: 0, y: 0, z: 0}
+  CurentCamera: {fileID: 0}
+  skill: {fileID: 2886255719385862502}
